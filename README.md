@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me
 
 <!--
 **SPan-18/SPan-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I am a second-year PhD student in the Department of Biostatistics at UCLA. Prior to this, I completed Bachelor’s and Master’s in Statistics from the Indian Statistical Institute, Kolkata in 2019 and 2021 respectively. At UCLA Biostatistics, I am working on Bayesian modelling of dynamical systems and development of Bayesian predictive stacking for conjugate distributions from the natural exponential family. My previous works include statistical modelling of complex related data and distribution-free correlation-based tests. Besides my current research, I am currently learning about Bayesian nonparametric modelling as I am interested in development of suitable methodologies for modelling mechanistic systems.
