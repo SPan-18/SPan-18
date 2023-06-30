@@ -1,5 +1,5 @@
-### About me
-
+### Hi, I'm Soumyakanti Pan  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" />
+![](https://komarev.com/ghpvc/?username=SPan-18)
 <!--
 **SPan-18/SPan-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I am a second-year PhD student in the [Department of Biostatistics](https://ph.ucla.edu/departments/biostatistics) at UCLA. Prior to this, I completed Bachelor’s and Master’s in Statistics from the [Indian Statistical Institute](https://www.isical.ac.in/) in 2019 and 2021 respectively. At UCLA Biostatistics, I am working with [Prof. Sudipto Banerjee](http://sudipto.bol.ucla.edu/) on [Bayesian modelling of dynamical systems](https://github.com/SPan-18/RailcarExposureModelling) and development of Bayesian predictive stacking for conjugate distributions from the natural exponential family. My previous works include statistical modelling of complex multi-layered relational data and distribution-free correlation-based tests. Besides my current research, I am currently learning about Bayesian nonparametric modelling as I am interested in development of suitable methodologies for modelling mechanistic systems.
+I am a second-year PhD student in the [Department of Biostatistics](https://ph.ucla.edu/departments/biostatistics) at UCLA. Prior to this, I completed Bachelor’s and Master’s in Statistics from the [Indian Statistical Institute](https://www.isical.ac.in/) in 2019 and 2021 respectively. At UCLA Biostatistics, I am working with [Prof. Sudipto Banerjee](http://sudipto.bol.ucla.edu/) on [Bayesian modelling of dynamical systems](https://github.com/SPan-18/RailcarExposureModelling) and development of Bayesian predictive stacking for conjugate distributions from the natural exponential family. My previous works include statistical modelling of complex multi-layered relational data and distribution-free correlation-based tests. Besides my current research, I am currently learning about Bayesian nonparametric modelling as I am interested in development of suitable methodologies for modelling mechanistic systems.
