@@ -1,4 +1,4 @@
-### Hi, I'm Soumyakanti Pan  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" />
+### Hi, I'm Soumyakanti Pan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" alt="Student Light Skin Tone" width="25" height="25" />
 ![](https://komarev.com/ghpvc/?username=SPan-18)
 <!--
 **SPan-18/SPan-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
