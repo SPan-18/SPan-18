@@ -1,4 +1,4 @@
-### Hi, I'm Soumyakanti Pan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" alt="Student Light Skin Tone" width="25" height="25" />
+## Hi, I'm Soumyakanti Pan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" alt="Student Light Skin Tone" width="25" height="25" />
 ![](https://komarev.com/ghpvc/?username=SPan-18)
 <!--
 **SPan-18/SPan-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a fourth year PhD student in the [Department of Biostatistics](https://ph.ucla.edu/departments/biostatistics) at UCLA. Prior to this, I completed Bachelor’s and Master’s in Statistics from the [Indian Statistical Institute](https://www.isical.ac.in/) in 2019 and 2021 respectively. At UCLA Biostatistics, I am working with [Prof. Sudipto Banerjee](http://sudipto.bol.ucla.edu/) on [Bayesian modeling of dynamical systems](https://doi.org/10.1093/annweh/wxae061) and development of [Bayesian predictive stacking for analysis of geospatial data](https://arxiv.org/abs/2406.04655). My research interests surrounds development of new and exciting Bayesian methodology for analysing complex dependent data and deliver fully model-based probabilistic uncertainty quantification. For the past few years, I have also grown a keen interest in the computational aspects inherent in statistical inference, especially within the Bayesian paradigm. Check out our new package [**spStack**](https://span-18.github.io/spStack-dev/) on [CRAN](https://cran.r-project.org/package=spStack)!
+I am a fourth year PhD student in the [Department of Biostatistics](https://ph.ucla.edu/departments/biostatistics) at UCLA. Prior to this, I completed Bachelor’s and Master’s in Statistics from the [Indian Statistical Institute](https://www.isical.ac.in/) in 2019 and 2021 respectively. At UCLA Biostatistics, I am working with [Prof. Sudipto Banerjee](http://sudipto.bol.ucla.edu/) on [Bayesian modeling of dynamical systems](https://doi.org/10.1093/annweh/wxae061) and development of [Bayesian predictive stacking for analysis of geospatial data](https://arxiv.org/abs/2406.04655). My research interests surrounds development of new and exciting Bayesian methodology for analysing complex dependent data and deliver fully model-based probabilistic uncertainty quantification. For the past few years, I have also grown a keen interest in the computational aspects inherent in statistical inference, especially within the Bayesian paradigm. 
+
+### NEWS
+- *Oct 8, 2024:* Our new package [**spStack**](https://cran.r-project.org/package=spStack) is published on [CRAN](https://cran.r-project.org/package=spStack).
+- *Oct 4, 2024:* The [**spStack** website](https://span-18.github.io/spStack-dev/) is now live!
+- *Sep 29, 2024:* Article accepted at Annals of Work Exposures and Health (https://doi.org/10.1093/annweh/wxae061).
+- *Dec 12, 2023:* Advanced to candidacy for the doctoral degree.
